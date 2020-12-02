@@ -6,6 +6,7 @@
 - JPA
 - BootStrap
 - MySQL
+- Serializable
 
 <img src="https://i.imgur.com/p2SgCls.jpg">
 
