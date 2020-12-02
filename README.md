@@ -8,6 +8,8 @@
 - MySQL
 - Serializable
 
+Projeto onde pode adicionar e excluir clientes.
+
 <img src="https://i.imgur.com/p2SgCls.jpg">
 
 Adicionando clientes:
